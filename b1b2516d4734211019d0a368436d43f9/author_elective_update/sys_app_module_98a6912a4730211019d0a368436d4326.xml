@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Amc Pip 0 1675712131330</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_872311_amc_pip_0_1675712131330</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 19:35:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98a6912a4730211019d0a368436d4326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amc Pip 0 1675712131330</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMC Pipeline" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMC Pipeline">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>sys_app_module_98a6912a4730211019d0a368436d4326</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-06 19:35:45</sys_updated_on>
+        <timeline_page/>
+        <title>Amc Pip 0 1675712131330</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</application>
+        <file_path/>
+        <instance_id>92bf548bdb89c110a667cac505961964</instance_id>
+        <instance_name>dev121892</instance_name>
+        <name>sys_app_module_98a6912a4730211019d0a368436d4326</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Amc Pip 0 1675712131330</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_872311_amc_pip_0_1675712131330</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-06 19:35:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>98a6912a4730211019d0a368436d4326</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Amc Pip 0 1675712131330</sys_name><sys_overrides/><sys_package display_value="AMC Pipeline" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package><sys_policy/><sys_scope display_value="AMC Pipeline">b1b2516d4734211019d0a368436d43f9</sys_scope><sys_update_name>sys_app_module_98a6912a4730211019d0a368436d4326</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-06 19:35:45</sys_updated_on><timeline_page/><title>Amc Pip 0 1675712131330</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1720126867</payload_hash>
+        <record_name>Amc Pip 0 1675712131330</record_name>
+        <reverted_from/>
+        <source>b1b2516d4734211019d0a368436d43fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 19:35:45</sys_created_on>
+        <sys_id>d4a6912a4730211019d0a368436d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186283a29af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-06 19:35:45</sys_updated_on>
+        <type>Module</type>
+        <update_guid>10a6912a70302110437e3da598511129</update_guid>
+        <update_guid_history>10a6912a70302110437e3da598511129:-1720126867</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Amc Pip 0 1675712131330">eb6f99a24770211019d0a368436d43f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 20:14:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>371ca57576ad4797ba23784dc32d8741</sys_id>
+        <sys_metadata>98a6912a4730211019d0a368436d4326</sys_metadata>
+        <sys_name>Amc Pip 0 1675712131330</sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_scope_delete display_value="">45e396f019c6420095ae19011e1e4000</sys_scope_delete>
+        <sys_update_name>sys_app_module_98a6912a4730211019d0a368436d4326</sys_update_name>
+        <sys_update_version display_value="sys_app_module_98a6912a4730211019d0a368436d4326">d4a6912a4730211019d0a368436d4329</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9706d5214774211019d0a368436d4355" label="AMC Pipeline " max_length="40" name="x_872311_amc_pip_0_amc_pipeline" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="AgeBucket" max_length="40" name="agebucket" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A: 0-1 Days" sequence="0" value="A: 0-1 Days"/>
+                <element inactive_on_update="false" label="B: 1-3 Days" sequence="0" value="B: 1-3 Days"/>
+                <element inactive_on_update="false" label="C: 3- 7 Days" sequence="0" value="C: 3- 7 Days"/>
+                <element inactive_on_update="false" label="D: 7-10 Days" sequence="0" value="D: 7-10 Days"/>
+                <element inactive_on_update="false" label="E: 10  Days" sequence="0" value="E: 10+ Days"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="AgeCalendarDays" max_length="40" name="agecalendardays" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="0" sequence="0" value="0"/>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="10" sequence="0" value="10"/>
+                <element inactive_on_update="false" label="11" sequence="0" value="11"/>
+                <element inactive_on_update="false" label="12" sequence="0" value="12"/>
+                <element inactive_on_update="false" label="13" sequence="0" value="13"/>
+                <element inactive_on_update="false" label="14" sequence="0" value="14"/>
+                <element inactive_on_update="false" label="15" sequence="0" value="15"/>
+                <element inactive_on_update="false" label="16" sequence="0" value="16"/>
+                <element inactive_on_update="false" label="17" sequence="0" value="17"/>
+                <element inactive_on_update="false" label="18" sequence="0" value="18"/>
+                <element inactive_on_update="false" label="19" sequence="0" value="19"/>
+                <element inactive_on_update="false" label="2" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="20" sequence="0" value="20"/>
+                <element inactive_on_update="false" label="21" sequence="0" value="21"/>
+                <element inactive_on_update="false" label="22" sequence="0" value="22"/>
+                <element inactive_on_update="false" label="23" sequence="0" value="23"/>
+                <element inactive_on_update="false" label="24" sequence="0" value="24"/>
+                <element inactive_on_update="false" label="25" sequence="0" value="25"/>
+                <element inactive_on_update="false" label="26" sequence="0" value="26"/>
+                <element inactive_on_update="false" label="27" sequence="0" value="27"/>
+                <element inactive_on_update="false" label="28" sequence="0" value="28"/>
+                <element inactive_on_update="false" label="29" sequence="0" value="29"/>
+                <element inactive_on_update="false" label="3" sequence="0" value="3"/>
+                <element inactive_on_update="false" label="30" sequence="0" value="30"/>
+                <element inactive_on_update="false" label="34" sequence="0" value="34"/>
+                <element inactive_on_update="false" label="35" sequence="0" value="35"/>
+                <element inactive_on_update="false" label="36" sequence="0" value="36"/>
+                <element inactive_on_update="false" label="37" sequence="0" value="37"/>
+                <element inactive_on_update="false" label="4" sequence="0" value="4"/>
+                <element inactive_on_update="false" label="49" sequence="0" value="49"/>
+                <element inactive_on_update="false" label="5" sequence="0" value="5"/>
+                <element inactive_on_update="false" label="50" sequence="0" value="50"/>
+                <element inactive_on_update="false" label="6" sequence="0" value="6"/>
+                <element inactive_on_update="false" label="62" sequence="0" value="62"/>
+                <element inactive_on_update="false" label="7" sequence="0" value="7"/>
+                <element inactive_on_update="false" label="8" sequence="0" value="8"/>
+                <element inactive_on_update="false" label="9" sequence="0" value="9"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="AllocationName" max_length="78" name="allocationname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AnticipatedClosingDate" max_length="40" name="anticipatedclosingdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="AppointmentDate" max_length="40" name="appointmentdate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="AppraisalContingencyDate" max_length="40" name="appraisalcontingencydate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="AppraisalPriority" max_length="40" name="appraisalpriority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="10" sequence="0" value="10"/>
+                <element inactive_on_update="false" label="11" sequence="0" value="11"/>
+                <element inactive_on_update="false" label="12" sequence="0" value="12"/>
+                <element inactive_on_update="false" label="13" sequence="0" value="13"/>
+                <element inactive_on_update="false" label="16" sequence="0" value="16"/>
+                <element inactive_on_update="false" label="17" sequence="0" value="17"/>
+                <element inactive_on_update="false" label="18" sequence="0" value="18"/>
+                <element inactive_on_update="false" label="19" sequence="0" value="19"/>
+                <element inactive_on_update="false" label="2" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="20" sequence="0" value="20"/>
+                <element inactive_on_update="false" label="21" sequence="0" value="21"/>
+                <element inactive_on_update="false" label="3" sequence="0" value="3"/>
+                <element inactive_on_update="false" label="5" sequence="0" value="5"/>
+                <element inactive_on_update="false" label="6" sequence="0" value="6"/>
+                <element inactive_on_update="false" label="7" sequence="0" value="7"/>
+                <element inactive_on_update="false" label="9" sequence="0" value="9"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="AppraisalRank" max_length="40" name="appraisalrank" type="string"/>
+        <element choice="1" label="Approval" max_length="40" name="approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval" sequence="0" value="approval"/>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="120" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ClientName" max_length="120" name="clientname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CountyName" max_length="120" name="countyname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="COVID19Flag" max_length="40" name="covid19flag" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="COVID19SCHWAB" sequence="0" value="COVID19SCHWAB"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="CreatedDate" max_length="40" name="createddate" type="glide_date_time"/>
+        <element label="HasCOVID19Flag" max_length="40" name="hascovid19flag" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="IsHomeEquityLoan" max_length="40" name="ishomeequityloan" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="NO" value="no"/>
+                <element inactive_on_update="false" label="YES" value="yes"/>
+            </choice>
+        </element>
+        <element label="IsPrimary" max_length="40" name="isprimary" type="boolean"/>
+        <element label="LoanNumber" max_length="40" name="loannumber" type="float"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Loan Product" max_length="40" name="loan_product" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Agency ARM" sequence="0" value="Agency ARM"/>
+                <element inactive_on_update="false" label="Agency Fixed" sequence="0" value="Agency Fixed"/>
+                <element inactive_on_update="false" label="CES" sequence="0" value="CES"/>
+                <element inactive_on_update="false" label="FHA Fixed" sequence="0" value="FHA Fixed"/>
+                <element inactive_on_update="false" label="HELOC" sequence="0" value="HELOC"/>
+                <element inactive_on_update="false" label="Non-Agency ARM" sequence="0" value="Non-Agency ARM"/>
+                <element inactive_on_update="false" label="Non-Agency Fixed" sequence="0" value="Non-Agency Fixed"/>
+                <element inactive_on_update="false" label="VA Fixed" sequence="0" value="VA Fixed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="NexsysOrderNumber" max_length="40" name="nexsysordernumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Past Due" max_length="40" name="past_due" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="0" sequence="0" value="0"/>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="ProductStatusDate" max_length="40" name="productstatusdate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="ProductSubStatusCode" max_length="80" name="productsubstatuscode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="ProductTypeCode" max_length="40" name="producttypecode" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1004BFHAFullAppraisal" sequence="0" value="1004BFHAFullAppraisal"/>
+                <element inactive_on_update="false" label="1004CMFH" sequence="0" value="1004CMFH"/>
+                <element inactive_on_update="false" label="1004DAppraisalUpdate" sequence="0" value="1004DAppraisalUpdate"/>
+                <element inactive_on_update="false" label="1004DFinalInspectionCompletion" sequence="0" value="1004DFinalInspectionCompletion"/>
+                <element inactive_on_update="false" label="1004FullDataCollection" sequence="0" value="1004FullDataCollection"/>
+                <element inactive_on_update="false" label="1004SingleFamilyFull" sequence="0" value="1004SingleFamilyFull"/>
+                <element inactive_on_update="false" label="1007FHA" sequence="0" value="1007FHA"/>
+                <element inactive_on_update="false" label="1007RentSchedule" sequence="0" value="1007RentSchedule"/>
+                <element inactive_on_update="false" label="102524UnitFHA" sequence="0" value="102524UnitFHA"/>
+                <element inactive_on_update="false" label="1025InvestmentProp24Units" sequence="0" value="1025InvestmentProp24Units"/>
+                <element inactive_on_update="false" label="1073CondoFHA" sequence="0" value="1073CondoFHA"/>
+                <element inactive_on_update="false" label="1073CondoFullAppraisal" sequence="0" value="1073CondoFullAppraisal"/>
+                <element inactive_on_update="false" label="1075CondoExtOnly" sequence="0" value="1075CondoExtOnly"/>
+                <element inactive_on_update="false" label="2000FieldReview" sequence="0" value="2000FieldReview"/>
+                <element inactive_on_update="false" label="2055ExtOnlywComps" sequence="0" value="2055ExtOnlywComps"/>
+                <element inactive_on_update="false" label="2055FHAExteriorOnly" sequence="0" value="2055FHAExteriorOnly"/>
+                <element inactive_on_update="false" label="2090CoOpAppraisal" sequence="0" value="2090CoOpAppraisal"/>
+                <element inactive_on_update="false" label="AddendumLetter" sequence="0" value="AddendumLetter"/>
+                <element inactive_on_update="false" label="AppraisalTransfer" sequence="0" value="AppraisalTransfer"/>
+                <element inactive_on_update="false" label="CollateralDesktopAnalysis" sequence="0" value="CollateralDesktopAnalysis"/>
+                <element inactive_on_update="false" label="Convertto1004BFHAFull" sequence="0" value="Convertto1004BFHAFull"/>
+                <element inactive_on_update="false" label="Convertto1004CMFH" sequence="0" value="Convertto1004CMFH"/>
+                <element inactive_on_update="false" label="Convertto1004SingleFamilyFull" sequence="0" value="Convertto1004SingleFamilyFull"/>
+                <element inactive_on_update="false" label="Convertto1073CondoFull" sequence="0" value="Convertto1073CondoFull"/>
+                <element inactive_on_update="false" label="DataCollection" sequence="0" value="DataCollection"/>
+                <element inactive_on_update="false" label="ExteriorConditionDisasterReport" sequence="0" value="ExteriorConditionDisasterReport"/>
+                <element inactive_on_update="false" label="FHAComplianceInspection" sequence="0" value="FHAComplianceInspection"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="ProjectedCompletionDate" max_length="40" name="projectedcompletiondate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="RateLockDate" max_length="40" name="ratelockdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="SequenceNumber" max_length="40" name="sequencenumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="StateCode" max_length="40" name="statecode" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AK" sequence="0" value="AK"/>
+                <element inactive_on_update="false" label="AL" sequence="0" value="AL"/>
+                <element inactive_on_update="false" label="AR" sequence="0" value="AR"/>
+                <element inactive_on_update="false" label="AZ" sequence="0" value="AZ"/>
+                <element inactive_on_update="false" label="CA" sequence="0" value="CA"/>
+                <element inactive_on_update="false" label="CO" sequence="0" value="CO"/>
+                <element inactive_on_update="false" label="CT" sequence="0" value="CT"/>
+                <element inactive_on_update="false" label="DC" sequence="0" value="DC"/>
+                <element inactive_on_update="false" label="DE" sequence="0" value="DE"/>
+                <element inactive_on_update="false" label="FL" sequence="0" value="FL"/>
+                <element inactive_on_update="false" label="GA" sequence="0" value="GA"/>
+                <element inactive_on_update="false" label="HI" sequence="0" value="HI"/>
+                <element inactive_on_update="false" label="IA" sequence="0" value="IA"/>
+                <element inactive_on_update="false" label="ID" sequence="0" value="ID"/>
+                <element inactive_on_update="false" label="IL" sequence="0" value="IL"/>
+                <element inactive_on_update="false" label="IN" sequence="0" value="IN"/>
+                <element inactive_on_update="false" label="KS" sequence="0" value="KS"/>
+                <element inactive_on_update="false" label="KY" sequence="0" value="KY"/>
+                <element inactive_on_update="false" label="LA" sequence="0" value="LA"/>
+                <element inactive_on_update="false" label="MA" sequence="0" value="MA"/>
+                <element inactive_on_update="false" label="MD" sequence="0" value="MD"/>
+                <element inactive_on_update="false" label="ME" sequence="0" value="ME"/>
+                <element inactive_on_update="false" label="MI" sequence="0" value="MI"/>
+                <element inactive_on_update="false" label="MN" sequence="0" value="MN"/>
+                <element inactive_on_update="false" label="MO" sequence="0" value="MO"/>
+                <element inactive_on_update="false" label="MS" sequence="0" value="MS"/>
+                <element inactive_on_update="false" label="MT" sequence="0" value="MT"/>
+                <element inactive_on_update="false" label="NC" sequence="0" value="NC"/>
+                <element inactive_on_update="false" label="ND" sequence="0" value="ND"/>
+                <element inactive_on_update="false" label="NE" sequence="0" value="NE"/>
+                <element inactive_on_update="false" label="NH" sequence="0" value="NH"/>
+                <element inactive_on_update="false" label="NJ" sequence="0" value="NJ"/>
+                <element inactive_on_update="false" label="NM" sequence="0" value="NM"/>
+                <element inactive_on_update="false" label="NV" sequence="0" value="NV"/>
+                <element inactive_on_update="false" label="NY" sequence="0" value="NY"/>
+                <element inactive_on_update="false" label="OH" sequence="0" value="OH"/>
+                <element inactive_on_update="false" label="OK" sequence="0" value="OK"/>
+                <element inactive_on_update="false" label="OR" sequence="0" value="OR"/>
+                <element inactive_on_update="false" label="PA" sequence="0" value="PA"/>
+                <element inactive_on_update="false" label="RI" sequence="0" value="RI"/>
+                <element inactive_on_update="false" label="SC" sequence="0" value="SC"/>
+                <element inactive_on_update="false" label="SD" sequence="0" value="SD"/>
+                <element inactive_on_update="false" label="TN" sequence="0" value="TN"/>
+                <element inactive_on_update="false" label="TX" sequence="0" value="TX"/>
+                <element inactive_on_update="false" label="UT" sequence="0" value="UT"/>
+                <element inactive_on_update="false" label="VA" sequence="0" value="VA"/>
+                <element inactive_on_update="false" label="VT" sequence="0" value="VT"/>
+                <element inactive_on_update="false" label="WA" sequence="0" value="WA"/>
+                <element inactive_on_update="false" label="WI" sequence="0" value="WI"/>
+                <element inactive_on_update="false" label="WV" sequence="0" value="WV"/>
+                <element inactive_on_update="false" label="WY" sequence="0" value="WY"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Assigned" sequence="0" value="Assigned"/>
+                <element inactive_on_update="false" label="Inspection Scheduled" sequence="0" value="Inspection Scheduled"/>
+                <element inactive_on_update="false" label="QC Review" sequence="0" value="QC Review"/>
+                <element inactive_on_update="false" label="Unassigned" sequence="0" value="Unassigned"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="StreetAddress1" max_length="120" name="streetaddress1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="StreetAddress2" max_length="120" name="streetaddress2" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="1" label="TeamMember" max_length="40" name="teammember" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Connor Meyer" sequence="0" value="connor_meyer"/>
+                <element inactive_on_update="false" label="Chris Price" sequence="1" value="chris_price"/>
+                <element inactive_on_update="false" label="Don Best" sequence="2" value="don_best"/>
+                <element inactive_on_update="false" label="Chris Allen" sequence="3" value="chris_allen"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Today" max_length="40" name="today" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="TransactionTypeCode" max_length="40" name="transactiontypecode" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Purchase" sequence="0" value="Purchase"/>
+                <element inactive_on_update="false" label="Refinance" sequence="0" value="Refinance"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="VendorName" max_length="40" name="vendorname" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AAA Appraisal Management Company LLC" sequence="0" value="AAA Appraisal Management Company LLC"/>
+                <element inactive_on_update="false" label="ACT Appraisal" sequence="0" value="ACT Appraisal"/>
+                <element inactive_on_update="false" label="AmeriMac Appraisal Management LLC" sequence="0" value="AmeriMac Appraisal Management LLC"/>
+                <element inactive_on_update="false" label="Amrock, LLC" sequence="0" value="Amrock, LLC"/>
+                <element inactive_on_update="false" label="Appraisal Management Solutions, LLC" sequence="0" value="Appraisal Management Solutions, LLC"/>
+                <element inactive_on_update="false" label="Appraisals 2U LLC" sequence="0" value="Appraisals 2U LLC"/>
+                <element inactive_on_update="false" label="Ascend Appraisal Solutions Group, LLC" sequence="0" value="Ascend Appraisal Solutions Group, LLC"/>
+                <element inactive_on_update="false" label="Axis" sequence="0" value="Axis"/>
+                <element inactive_on_update="false" label="Central State Appraisal Services" sequence="0" value="Central State Appraisal Services"/>
+                <element inactive_on_update="false" label="Class Valuation" sequence="0" value="Class Valuation"/>
+                <element inactive_on_update="false" label="Clear Capital" sequence="0" value="Clear Capital"/>
+                <element inactive_on_update="false" label="Collateral Management LLC" sequence="0" value="Collateral Management LLC"/>
+                <element inactive_on_update="false" label="Core Valuation Management, Inc" sequence="0" value="Core Valuation Management, Inc"/>
+                <element inactive_on_update="false" label="Dart Appraisal" sequence="0" value="Dart Appraisal"/>
+                <element inactive_on_update="false" label="Equity Solutions USA, Inc" sequence="0" value="Equity Solutions USA, Inc"/>
+                <element inactive_on_update="false" label="eValuation ZONE, Inc" sequence="0" value="eValuation ZONE, Inc"/>
+                <element inactive_on_update="false" label="Financial Asset Services, Inc" sequence="0" value="Financial Asset Services, Inc"/>
+                <element inactive_on_update="false" label="Incenter Appraisal Management, LLC" sequence="0" value="Incenter Appraisal Management, LLC"/>
+                <element inactive_on_update="false" label="Kairos Appraisal Services, LLC" sequence="0" value="Kairos Appraisal Services, LLC"/>
+                <element inactive_on_update="false" label="MTS Group" sequence="0" value="MTS Group"/>
+                <element inactive_on_update="false" label="Nationwide Appraisal Network" sequence="0" value="Nationwide Appraisal Network"/>
+                <element inactive_on_update="false" label="Nationwide Property &amp; Appraisal Services" sequence="0" value="Nationwide Property &amp; Appraisal Services"/>
+                <element inactive_on_update="false" label="Palm Beach AMC" sequence="0" value="Palm Beach AMC"/>
+                <element inactive_on_update="false" label="ServiceLink Valuation Solutions, LLC" sequence="0" value="ServiceLink Valuation Solutions, LLC"/>
+                <element inactive_on_update="false" label="Solidifi" sequence="0" value="Solidifi"/>
+                <element inactive_on_update="false" label="SWBC Lending Solutions, LLC" sequence="0" value="SWBC Lending Solutions, LLC"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="VendorReferenceNumber" max_length="40" name="vendorreferencenumber" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

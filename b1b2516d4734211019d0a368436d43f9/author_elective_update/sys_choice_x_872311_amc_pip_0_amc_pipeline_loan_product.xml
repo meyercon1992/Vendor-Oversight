@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="loan_product" table="x_872311_amc_pip_0_amc_pipeline" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>loan_product</element>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_name>loan_product</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_choice_x_872311_amc_pip_0_amc_pipeline_loan_product</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agency ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Agency ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Agency Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Agency Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CES</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CES</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FHA Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>FHA Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HELOC</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>HELOC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Agency ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Non-Agency ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Agency Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Non-Agency Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VA Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>VA Fixed</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

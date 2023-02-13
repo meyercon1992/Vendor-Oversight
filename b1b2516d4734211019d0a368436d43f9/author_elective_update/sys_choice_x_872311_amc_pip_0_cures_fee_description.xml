@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fee_description" table="x_872311_amc_pip_0_cures" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fee_description</element>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_name>fee_description</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_choice_x_872311_amc_pip_0_cures_fee_description</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Administration Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:14:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Administration Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Application Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Appraisal Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Appraisal Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Appraisal Management Services</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Appraisal Management Services</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Appraisal Review Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Appraisal Review Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Broker Compensation</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:14:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Broker Compensation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CLO Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:14:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CLO Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CO-OP Charges</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CO-OP Charges</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Compliance Inspection</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Compliance Inspection</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Condo Budget/ByLaws/Master</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Condo Budget/ByLaws/Master</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Condo Insurance fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Condo Insurance fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Condo Questionnaire</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Condo Questionnaire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Counseling Fee - Client Paid</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Counseling Fee - Client Paid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit Monitoring Service</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Credit Monitoring Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit Report</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Credit Report</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit Report/AUS</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Credit Report/AUS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Document Preparation Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Document Preparation Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Final Insp/Add'l Appraisal Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Final Insp/Add'l Appraisal Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flood Determination Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Flood Determination Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flood Life of Loan Coverage</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Flood Life of Loan Coverage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Life of Loan Tax Service</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Life of Loan Tax Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Loan Discount Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Loan Discount Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MERS Registration Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MERS Registration Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Origination Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Origination Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pest Inspection</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Pest Inspection</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Processing Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Processing Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-Deed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-Deed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-Documentary Transfer Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-Documentary Transfer Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-GA Res Mtg Per Loan Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-GA Res Mtg Per Loan Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-Misc Recording/Transfer Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-Misc Recording/Transfer Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-MLC Recording Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-MLC Recording Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-Mortgage</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-Mortgage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-Mortgage Satisfaction</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-Mortgage Satisfaction</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-Nassau  County Tax Verification Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-Nassau  County Tax Verification Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-Other</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recording Fee-RP-5217 Real PropertyTransfer Form</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Recording Fee-RP-5217 Real PropertyTransfer Form</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tax Certification Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Tax Certification Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Third Party Processing Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:14:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Third Party Processing Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Abstract or Title Search</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Abstract or Title Search</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Add'l Closing Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Add'l Closing Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Admin Support</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Admin Support</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Archive</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Archive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Attorney's Fees</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Attorney's Fees</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Bankruptcy Search</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Bankruptcy Search</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Closing Protection Letter</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Closing Protection Letter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Concurrent Loan Services Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Concurrent Loan Services Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Copies of Supporting Documents</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Copies of Supporting Documents</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Courier Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Courier Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Deed Prep Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Deed Prep Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Deletion of Mechanics Lien Exception Endorsement</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Deletion of Mechanics Lien Exception Endorsement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Deletion of Survey Exception</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Deletion of Survey Exception</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Document Preparation Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Document Preparation Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-All Inclusive</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-All Inclusive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-ALTA 4/ALTA 4.1</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-ALTA 4/ALTA 4.1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-ALTA 5/ALTA 5.1</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-ALTA 5/ALTA 5.1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-ALTA 6</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-ALTA 6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-ALTA 7</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-ALTA 7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-ALTA 8.1</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-ALTA 8.1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-ALTA 9</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-ALTA 9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-Extended Coverage (Short Form)</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-Extended Coverage (Short Form)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-Other</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-R-24</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-R-24</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-T-17</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-T-17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-T-19</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-T-19</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-T-30</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-T-30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-T-33</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-T-33</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-TX T42</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-TX T42</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Endorsement-TX T42.1</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Endorsement-TX T42.1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Environmental Protection Lien</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Environmental Protection Lien</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Escrow Services Sales Tax Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Escrow Services Sales Tax Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Express Mail/Courier Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Express Mail/Courier Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Final Policy Short Form</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Final Policy Short Form</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-General Excise Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-General Excise Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Gross Receipts Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Gross Receipts Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-IL Title Policy Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-IL Title Policy Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Insured Closing Letter</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Insured Closing Letter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Lender Insured Closing Letter</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Lender Insured Closing Letter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Lenders Title Policy</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Lenders Title Policy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Loan Tie-In</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Loan Tie-In</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-MLC Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-MLC Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Municipal Lien Cert Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Municipal Lien Cert Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-NC Title Commitment Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-NC Title Commitment Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-NJ Tidal Search Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-NJ Tidal Search Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Notary's Fees</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Notary's Fees</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-OH Title Commitment Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-OH Title Commitment Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Overnight</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Overnight</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Owner's Policy Guaranty Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Owner's Policy Guaranty Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Patriot Act Searches</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Patriot Act Searches</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Policy Guaranty Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Policy Guaranty Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Recording Service</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Recording Service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Search / Exam Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Search / Exam Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Search and Exam Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Search and Exam Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Seller Closing Protection Letter</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Seller Closing Protection Letter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Settlement or Closing Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Settlement or Closing Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Survey</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Survey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Tax Certification Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Tax Certification Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Tax Service Fee (Closing Agent)</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Tax Service Fee (Closing Agent)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Tideland Search Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Tideland Search Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Title Examination Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Title Examination Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Title Ins. Enforcement Fund Fee (TIEFF)</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Title Ins. Enforcement Fund Fee (TIEFF)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Title Premium Mun. Tax KY</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Title Premium Mun. Tax KY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Title Premium Mun. Tax WA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Title Premium Mun. Tax WA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Title Service Charges</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:12:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Title Service Charges</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Travel Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Travel Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Upper Court Search</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Upper Court Search</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Title-Wire Fee-Closing Agent</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Title-Wire Fee-Closing Agent</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Titlle-Title Certification</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Titlle-Title Certification</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-City-Deed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-City-Deed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-City-MeasureETax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-City-MeasureETax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-City-Mortgage</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-City-Mortgage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-County-Auditor Transfer Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-County-Auditor Transfer Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-County-Deed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-County-Deed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-County-Mortgage</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-County-Mortgage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-FL-Intangible Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-FL-Intangible Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-GA-Intangible Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-GA-Intangible Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-Local-Deed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-Local-Deed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-Local-Grantee Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-Local-Grantee Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-State-Deed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-State-Deed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-State-Deed Grantee Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-State-Deed Grantee Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-State-Deed Recordation Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-State-Deed Recordation Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-State-Mortgage</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-State-Mortgage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-State-Mortgage-FL</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-State-Mortgage-FL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-State-Mortgage-Recordation Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-State-Mortgage-Recordation Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transfer Taxes-State-Sales Disclosure Form Tax</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Transfer Taxes-State-Sales Disclosure Form Tax</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Underwriting Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Underwriting Fee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Upfront Mortgage Insurance Premium</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Upfront Mortgage Insurance Premium</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VA Funding Fee</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:10:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>VA Funding Fee</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="loan_channel" table="x_872311_amc_pip_0_cures" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>loan_channel</element>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:53</sys_created_on>
+            <sys_name>loan_channel</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_choice_x_872311_amc_pip_0_cures_loan_channel</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Benefit Partner</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Benefit Partner</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cadillac</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Cadillac</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cadillac,Relocation</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Cadillac,Relocation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Forward</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Forward</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Forward,Partnership</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:13:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Forward,Partnership</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Forward,Partnership,Relocation</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Forward,Partnership,Relocation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Forward,Relocation</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Forward,Relocation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Partnership</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Partnership</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Partnership,Forward,Relocation</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Partnership,Forward,Relocation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Partnership,Relocation</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Partnership,Relocation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QLMS,Correspondent</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:09:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>QLMS,Correspondent</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>QLMS,Wholesale</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>QLMS,Wholesale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>loan_channel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Relocation</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 20:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Relocation</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

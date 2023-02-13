@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="producttypecode" table="x_872311_amc_pip_0_amc_pipeline" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>producttypecode</element>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_name>producttypecode</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_choice_x_872311_amc_pip_0_amc_pipeline_producttypecode</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1004BFHAFullAppraisal</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1004BFHAFullAppraisal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1004CMFH</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1004CMFH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1004DAppraisalUpdate</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1004DAppraisalUpdate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1004DFinalInspectionCompletion</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1004DFinalInspectionCompletion</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1004FullDataCollection</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1004FullDataCollection</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1004SingleFamilyFull</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1004SingleFamilyFull</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1007FHA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1007FHA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1007RentSchedule</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1007RentSchedule</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>102524UnitFHA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>102524UnitFHA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1025InvestmentProp24Units</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1025InvestmentProp24Units</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1073CondoFHA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1073CondoFHA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1073CondoFullAppraisal</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1073CondoFullAppraisal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1075CondoExtOnly</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>1075CondoExtOnly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2000FieldReview</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2000FieldReview</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2055ExtOnlywComps</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2055ExtOnlywComps</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2055FHAExteriorOnly</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2055FHAExteriorOnly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2090CoOpAppraisal</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2090CoOpAppraisal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AddendumLetter</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>AddendumLetter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AppraisalTransfer</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 17:00:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>AppraisalTransfer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CollateralDesktopAnalysis</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CollateralDesktopAnalysis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Convertto1004BFHAFull</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Convertto1004BFHAFull</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Convertto1004CMFH</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 17:00:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Convertto1004CMFH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Convertto1004SingleFamilyFull</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Convertto1004SingleFamilyFull</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Convertto1073CondoFull</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Convertto1073CondoFull</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DataCollection</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>DataCollection</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ExteriorConditionDisasterReport</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 16:59:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>ExteriorConditionDisasterReport</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>producttypecode</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FHAComplianceInspection</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_amc_pipeline</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-03 17:00:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>FHAComplianceInspection</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
