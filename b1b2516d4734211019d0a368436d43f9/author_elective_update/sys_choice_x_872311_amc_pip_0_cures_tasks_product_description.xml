@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="product_description" table="x_872311_amc_pip_0_cures_tasks" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>product_description</element>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 20:38:57</sys_created_on>
+            <sys_name>product_description</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_choice_x_872311_amc_pip_0_cures_tasks_product_description</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>123 - 10 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>123 - 10 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130 - 30 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130 - 30 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130C-Home Possible/Home Ready 30 Yr Fxd</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130C-Home Possible/Home Ready 30 Yr Fxd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130CC-Freddie Mac BorrowSmart 30 YrFxd</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130CC-Freddie Mac BorrowSmart 30 YrFxd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130CH - HomeReady 30 Yr Fixed High Bal</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130CH - HomeReady 30 Yr Fixed High Bal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130L- RefiNow/Refi Possible 30 Yr Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130L- RefiNow/Refi Possible 30 Yr Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130LC - 30 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130LC - 30 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130LH - 30 yr Conforming High Balance</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130LH - 30 yr Conforming High Balance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130S - 30 YR Special Purpose Credit</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>130S - 30 YR Special Purpose Credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>225 - 25 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>225 - 25 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>230 - 20 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>230 - 20 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>276 - 7/6 Arm Conforming</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>276 - 7/6 Arm Conforming</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>330 - 15 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>330 - 15 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>815V - VA 15 year fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>815V - VA 15 year fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>820V - VA 20 year fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>820V - VA 20 year fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>825V - VA 25 Year Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>825V - VA 25 Year Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>830CS - VA 30 Yr Fixed Credit Qual IRRRL</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>830CS - VA 30 Yr Fixed Credit Qual IRRRL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>830J - VA 30 year Fixed Jumbo</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>830J - VA 30 year Fixed Jumbo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>830LC - VA 30 year fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>830LC - VA 30 year fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>830LH - VA 30 year Fixed Jumbo</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>830LH - VA 30 year Fixed Jumbo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>830V - VA 30 year fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>830V - VA 30 year fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>851J - VA 5/1 Jumbo ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>851J - VA 5/1 Jumbo ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>915 - FHA 15 Yr Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>915 - FHA 15 Yr Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>920 - FHA 20 Yr Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>920 - FHA 20 Yr Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>925 - FHA 25 Yr Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>925 - FHA 25 Yr Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>930 - FHA 30 Yr Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>930 - FHA 30 Yr Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>930J - FHA 30 Yr Fixed Expanded</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>930J - FHA 30 Yr Fixed Expanded</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>930LC - FHA 30 Yr Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>930LC - FHA 30 Yr Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A15 - 15 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>A15 - 15 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A20 - 20 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>A20 - 20 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A30 - 30 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>A30 - 30 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A30C-Home Possible/Home Ready 30 yr Fxd</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>A30C-Home Possible/Home Ready 30 yr Fxd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A30CC-Freddie Mac BorrowSmart 30 YrFxd</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:45:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>A30CC-Freddie Mac BorrowSmart 30 YrFxd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A30HB - 30 yr Conforming High Balance</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>A30HB - 30 yr Conforming High Balance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C10 - 10/1 Conforming ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>C10 - 10/1 Conforming ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C56 - 5/6 Arm Conforming</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>C56 - 5/6 Arm Conforming</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C76 - 7/6 Arm Conforming</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>C76 - 7/6 Arm Conforming</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CES10 - 10 Year Closed End Second</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CES10 - 10 Year Closed End Second</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CES20 - 20 Year Closed End Second</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CES20 - 20 Year Closed End Second</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CJ15 - 15 Year Fixed Jumbo</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CJ15 - 15 Year Fixed Jumbo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CJ30 - 30 Year Fixed Jumbo</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CJ30 - 30 Year Fixed Jumbo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CJ56 - 5/6 Jumbo ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CJ56 - 5/6 Jumbo ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CJ76 - 7/6 Jumbo ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CJ76 - 7/6 Jumbo ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CJ76I - 7/6 Jumbo I/O ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CJ76I - 7/6 Jumbo I/O ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CJX6 - 10/6 Jumbo ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CJX6 - 10/6 Jumbo ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CJX6I - 10/6 Jumbo I/O ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CJX6I - 10/6 Jumbo I/O ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CN56 - 5/6 Conforming Non Agency ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CN56 - 5/6 Conforming Non Agency ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CN56I-5/6 Conforming Non Agency I/O ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CN56I-5/6 Conforming Non Agency I/O ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CN76 - 7/6 Conforming Non Agency ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CN76 - 7/6 Conforming Non Agency ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CNX6 - 10/6 Conforming Non Agency ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CNX6 - 10/6 Conforming Non Agency ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CNX6I-10/6 Conforming Non Agency I/O ARM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CNX6I-10/6 Conforming Non Agency I/O ARM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CQJ15 - 15 Year Fixed Jumbo</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CQJ15 - 15 Year Fixed Jumbo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CQJ30 - 30 Year Jumbo Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CQJ30 - 30 Year Jumbo Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CX6 - 10/6 Arm Conforming</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CX6 - 10/6 Arm Conforming</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F30 - FHA 30 Yr Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>F30 - FHA 30 Yr Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>F30J - FHA 30 Yr Fixed Expanded</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>F30J - FHA 30 Yr Fixed Expanded</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FRED - 30 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>FRED - 30 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>130HB - 30 yr Conforming High Balance</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 20:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>hb_30_yr_conforming_high_balance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NB30T - 30 YR Non-Agency Bank Statement</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:45:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NB30T - 30 YR Non-Agency Bank Statement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RJ30 - Jumbo Smart 30 Year Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>RJ30 - Jumbo Smart 30 Year Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RJT30 - Jumbo Smart 30 Year Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:45:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>RJT30 - Jumbo Smart 30 Year Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>V30 - VA 30 year fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>V30 - VA 30 year fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>V30J - VA 30 year Fixed Jumbo</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>V30J - VA 30 year Fixed Jumbo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Y13 - 13 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Y13 - 13 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Y21 - 21 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Y21 - 21 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Y23 - 23 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Y23 - 23 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Y27 - 27 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Y27 - 27 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Y28 - 28 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Y28 - 28 yr Conforming Fixed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_description</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Y8 - 8 yr Conforming Fixed</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Y8 - 8 yr Conforming Fixed</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

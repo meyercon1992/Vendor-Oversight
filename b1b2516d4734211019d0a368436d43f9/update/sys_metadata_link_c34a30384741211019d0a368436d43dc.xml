@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ba3e15ee4730211019d0a368436d43d9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_872311_amc_pip_0_cures">
+    <x_872311_amc_pip_0_cures action="INSERT_OR_UPDATE">
+        <acd>2021-06-29</acd>
+        <amrock_title>false</amrock_title>
+        <appraisal_fee/>
+        <approval/>
+        <county>Denton</county>
+        <credit>0</credit>
+        <cures_to_review>0</cures_to_review>
+        <current_loan_status>34</current_loan_status>
+        <date_time_fee_amount_updated/>
+        <fee_amount>5903.68</fee_amount>
+        <fee_baseline>5768.93</fee_baseline>
+        <fee_cure_amount>134.75</fee_cure_amount>
+        <fee_description>Upfront Mortgage Insurance Premium</fee_description>
+        <fee_number>902</fee_number>
+        <fee_paid_to>Federal Housing Administration</fee_paid_to>
+        <fee_tolerance>0</fee_tolerance>
+        <issue/>
+        <loan_channel>Forward</loan_channel>
+        <loan_number>3471901494</loan_number>
+        <loan_purpose>Refinance</loan_purpose>
+        <mortgage_insurance>0</mortgage_insurance>
+        <number>CUR0001037</number>
+        <our_fee>0</our_fee>
+        <previous_loan_purpose/>
+        <product_description>930 - FHA 30 Yr Fixed</product_description>
+        <recording_fee_purch>0</recording_fee_purch>
+        <recording_fee_refi>0</recording_fee_refi>
+        <review>0</review>
+        <state>TX</state>
+        <status_5_date>2021-02-06</status_5_date>
+        <sum>0</sum>
+        <sys_class_name>x_872311_amc_pip_0_cures</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 20:08:58</sys_created_on>
+        <sys_id>ba3e15ee4730211019d0a368436d43d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-06 20:08:58</sys_updated_on>
+        <team_member/>
+        <title>0</title>
+        <total_loan_cure_amount>278.3</total_loan_cure_amount>
+        <transfer_tax_purch>0</transfer_tax_purch>
+        <transfer_tax_refi>0</transfer_tax_refi>
+        <user_last_modified_fee>No fee override found.</user_last_modified_fee>
+    </x_872311_amc_pip_0_cures>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 17:18:18</sys_created_on>
+        <sys_id>c34a30384741211019d0a368436d43dc</sys_id>
+        <sys_name>CUR0001037</sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>sys_metadata_link_c34a30384741211019d0a368436d43dc</sys_update_name>
+        <tablename>x_872311_amc_pip_0_cures</tablename>
+    </sys_metadata_link>
+</record_update>

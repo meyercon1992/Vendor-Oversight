@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="107e04254785211019d0a368436d439d" sys_domain="global" table="x_872311_amc_pip_0_tasks_for_cures" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 22:02:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc7e04254785211019d0a368436d439f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_872311_amc_pip_0_tasks_for_cures" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">107e04254785211019d0a368436d439d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 22:02:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 22:02:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d87e04254785211019d0a368436d43a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_872311_amc_pip_0_tasks_for_cures" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">107e04254785211019d0a368436d439d</sys_ui_form>
+            <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 22:02:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_872311_amc_pip_0_tasks_for_cures</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 22:02:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>107e04254785211019d0a368436d439d</sys_id>
+            <sys_name>x_872311_amc_pip_0_tasks_for_cures</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_107e04254785211019d0a368436d439d</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

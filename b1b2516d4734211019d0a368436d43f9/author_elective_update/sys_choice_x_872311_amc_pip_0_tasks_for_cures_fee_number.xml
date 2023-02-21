@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fee_number" table="x_872311_amc_pip_0_tasks_for_cures" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fee_number</element>
+            <name>x_872311_amc_pip_0_tasks_for_cures</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:40:25</sys_created_on>
+            <sys_name>fee_number</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_choice_x_872311_amc_pip_0_tasks_for_cures_fee_number</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>803</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_tasks_for_cures</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:40:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>803</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>803a</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_tasks_for_cures</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:40:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fee_number</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>803b</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_tasks_for_cures</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:40:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>b</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

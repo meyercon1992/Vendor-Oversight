@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Import to Cures data to the extended task table</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Curez Import</name>
+        <record_id>5923a1704705211019d0a368436d4386</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 20:16:47</sys_created_on>
+        <sys_id>1923a1704705211019d0a368436d4384</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Curez Import</sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_1923a1704705211019d0a368436d4384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:16:47</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</application>
+        <file_path/>
+        <instance_id>92bf548bdb89c110a667cac505961964</instance_id>
+        <instance_name>dev121892</instance_name>
+        <name>sn_ihub_integration_instance_1923a1704705211019d0a368436d4384</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Import to Cures data to the extended task table</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>Curez Import</name><record_id>5923a1704705211019d0a368436d4386</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-13 20:16:47</sys_created_on><sys_id>1923a1704705211019d0a368436d4384</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Curez Import</sys_name><sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package><sys_policy/><sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope><sys_update_name>sn_ihub_integration_instance_1923a1704705211019d0a368436d4384</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-13 20:16:47</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1110929761</payload_hash>
+        <record_name>Curez Import</record_name>
+        <reverted_from/>
+        <source>0c19f8fc4701211019d0a368436d4396</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 20:16:47</sys_created_on>
+        <sys_id>1523a1704705211019d0a368436d438f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1864c6c3cc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:16:47</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>5d23a1707505211087601b00b0722e8e</update_guid>
+        <update_guid_history>5d23a1707505211087601b00b0722e8e:-1110929761</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Curez Import">b154ad704705211019d0a368436d43e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 20:22:00</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>81b3e6384f4341bf9d6355110f467b81</sys_id>
+        <sys_metadata>1923a1704705211019d0a368436d4384</sys_metadata>
+        <sys_name>Curez Import</sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_scope_delete display_value="">45e396f019c6420095ae19011e1e4000</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_1923a1704705211019d0a368436d4384</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_1923a1704705211019d0a368436d4384">1523a1704705211019d0a368436d438f</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

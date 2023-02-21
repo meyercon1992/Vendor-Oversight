@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state_abbreviation" table="x_872311_amc_pip_0_cures_tasks" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state_abbreviation</element>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 20:38:57</sys_created_on>
+            <sys_name>state_abbreviation</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_choice_x_872311_amc_pip_0_cures_tasks_state_abbreviation</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AK</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>AK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AL</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>AL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AR</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>AR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AZ</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>AZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 20:38:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>ca</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CO</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CT</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>CT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DC</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>DC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DE</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>DE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FL</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>FL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>GA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HI</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>HI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>IA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ID</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>ID</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IL</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>IL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IN</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>IN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KS</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>KS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KY</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>KY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>LA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MD</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ME</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>ME</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MI</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MN</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MO</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MS</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MT</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>MT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NC</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ND</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>ND</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NE</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NH</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NJ</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NJ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NM</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NV</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NV</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NY</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>NY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OH</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>OH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OK</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>OK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OR</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>OR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>PA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RI</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:43:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>RI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SC</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>SC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SD</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>SD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TN</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>TN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TX</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>TX</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UT</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>UT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>VA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VT</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>VT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WA</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>WA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WI</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>WI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WV</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:42:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>WV</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_abbreviation</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WY</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_cures_tasks</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-13 21:44:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>WY</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

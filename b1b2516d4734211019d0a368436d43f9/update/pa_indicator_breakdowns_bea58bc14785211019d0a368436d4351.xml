@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="Cures Team Member">01f0524147c1211019d0a368436d43dc</breakdown>
+        <display>true</display>
+        <indicator display_value="Cures Rejected Fee $ Amount ">c1a443054785211019d0a368436d4385</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-14 22:05:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bea58bc14785211019d0a368436d4351</sys_id>
+        <sys_name>Cures Team Member.Cures Rejected Fee $ Amount </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_bea58bc14785211019d0a368436d4351</sys_update_name>
+    </pa_indicator_breakdowns>
+</record_update>

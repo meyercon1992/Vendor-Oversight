@@ -704,6 +704,7 @@
                 <element inactive_on_update="false" label="Cures to Review" sequence="0" value="Cures to Review"/>
             </choice>
         </element>
+        <element label="Cure Amount Saved" max_length="38" name="cure_amount_saved" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Current Loan Status" max_length="40" name="current_loan_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="10" sequence="0" value="10"/>

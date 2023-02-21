@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="fee_description" label="Fee Description" language="en" table="x_872311_amc_pip_0_tasks_for_cures">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fee_description</element>
+            <help/>
+            <hint/>
+            <label>Fee Description</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_tasks_for_cures</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 21:40:24</sys_created_on>
+            <sys_name>Fee Description</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_documentation_x_872311_amc_pip_0_tasks_for_cures_fee_description_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

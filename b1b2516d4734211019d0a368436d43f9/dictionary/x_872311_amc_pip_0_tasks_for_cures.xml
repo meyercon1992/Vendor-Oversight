@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7898ffdd4705211019d0a368436d43e3" extends="task" label="Tasks for Cures" max_length="40" name="x_872311_amc_pip_0_tasks_for_cures" type="collection">
+        <element label="Cure Amount Saved" max_length="38" name="cure_amount_saved" type="decimal"/>
+        <element label="Fee Cure Amount" max_length="38" name="fee_cure_amount" type="decimal"/>
+        <element choice="1" label="Fee Description" max_length="40" name="fee_description" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Application Fee" sequence="0" value="application_fee"/>
+                <element inactive_on_update="false" label="Appraisal Fee" sequence="1" value="appraisal_fee"/>
+            </choice>
+        </element>
+        <element choice="1" label="Fee Number" max_length="40" name="fee_number" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="803" sequence="0" value="803"/>
+                <element inactive_on_update="false" label="803a" sequence="1" value="a"/>
+                <element inactive_on_update="false" label="803b" sequence="2" value="b"/>
+            </choice>
+        </element>
+        <element label="Loan Number" max_length="40" name="loan_number" type="string"/>
+        <element choice="1" label="Loan Purpose" max_length="40" name="loan_purpose" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Refinance" sequence="0" value="refinance"/>
+                <element inactive_on_update="false" label="Purchase" sequence="1" value="purchase"/>
+            </choice>
+        </element>
+        <element choice="1" label="Product Description" max_length="40" name="product_description" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="130 - 30 yr Conforming Fixed" sequence="0" value="30_yr_conforming_fixed"/>
+            </choice>
+        </element>
+    </element>
+</database>

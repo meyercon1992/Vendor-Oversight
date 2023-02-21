@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Tasks for Cures</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Tasks for Cures</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 20:26:37</sys_created_on>
+        <sys_id>c598ffdd4705211019d0a368436d43f9</sys_id>
+        <sys_name>Tasks for Cures</sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>sys_wizard_answer_c598ffdd4705211019d0a368436d43f9</sys_update_name>
+        <table/>
+        <target_url>x_872311_amc_pip_0_tasks_for_cures.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

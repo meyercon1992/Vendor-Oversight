@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="Cures Fee Type">cdc0d2c147c1211019d0a368436d4301</breakdown>
+        <facts_table>x_872311_amc_pip_0_cures</facts_table>
+        <field>fee_number</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-14 20:42:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f92fa414745211019d0a368436d4324</sys_id>
+        <sys_name>cdc0d2c147c1211019d0a368436d4301</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_7f92fa414745211019d0a368436d4324</sys_update_name>
+    </pa_breakdown_mappings>
+</record_update>
