@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="INSERT_OR_UPDATE">
+        <breakdown display_value="Cures Fee Description">e4f5d0404791211019d0a368436d43c9</breakdown>
+        <display>true</display>
+        <indicator display_value="Cures Approved Fee Amount ">4e6d6a4d4705211019d0a368436d436f</indicator>
+        <order>100</order>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 17:01:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7c6694404791211019d0a368436d431c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cures Fee Description.Cures Approved Fee Amount </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_7c6694404791211019d0a368436d431c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 17:01:40</sys_updated_on>
+    </pa_indicator_breakdowns>
+</record_update>
