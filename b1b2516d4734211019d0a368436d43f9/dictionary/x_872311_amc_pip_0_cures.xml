@@ -2,7 +2,7 @@
     <element db_object_id="df2eddae4730211019d0a368436d43e6" label="Cures " max_length="40" name="x_872311_amc_pip_0_cures" type="collection">
         <element attributes="edge_encryption_enabled=true" label="ACD" max_length="40" name="acd" type="glide_date"/>
         <element label="Amrock Title" max_length="40" name="amrock_title" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Appraisal Fee" max_length="40" name="appraisal_fee" type="choice">
+        <element choice="1" label="Appraisal Fee" max_length="40" name="appraisal_fee" type="choice">
             <choice>
                 <element inactive_on_update="false" label="0" sequence="0" value="0"/>
                 <element inactive_on_update="false" label="1" sequence="1" value="1"/>
@@ -1617,6 +1617,10 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="User Last Modified Fee" max_length="80" name="user_last_modified_fee" type="string"/>
         <index name="index">
+            <element name="loan_number"/>
+            <element name="fee_number"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

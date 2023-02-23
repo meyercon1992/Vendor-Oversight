@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
     <sys_transform_entry action="INSERT_OR_UPDATE">
         <choice_action>create</choice_action>
-        <coalesce>false</coalesce>
+        <coalesce>true</coalesce>
         <coalesce_case_sensitive>false</coalesce_case_sensitive>
         <coalesce_empty_fields>false</coalesce_empty_fields>
         <date_format>yyyy-MM-dd HH:mm:ss</date_format>
-        <map display_value="x_872311_amc_pip_0_cures_transform_map">dd3e912a4730211019d0a368436d4350</map>
+        <map display_value="Definitive Cures Transform ">dd3e912a4730211019d0a368436d4350</map>
         <reference_value_field/>
         <source_field>u_loan_number</source_field>
         <source_script><![CDATA[answer = (function transformEntry(source) {
