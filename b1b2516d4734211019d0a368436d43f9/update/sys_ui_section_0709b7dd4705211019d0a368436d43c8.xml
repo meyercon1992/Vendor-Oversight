@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>032fd21847d1211019d0a368436d4382</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>acb34dd94791211019d0a368436d43db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>872fd21847d1211019d0a368436d4382</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>64b34dd94791211019d0a368436d43dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,97 +32,125 @@
             <element>active</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>0b2fd21847d1211019d0a368436d4382</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>e4b34dd94791211019d0a368436d43dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>68b34dd94791211019d0a368436d43dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>8b2fd21847d1211019d0a368436d4382</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>e8b34dd94791211019d0a368436d43dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cure_state</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>0f2fd21847d1211019d0a368436d4382</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>6cb34dd94791211019d0a368436d43dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cure_approval</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>8f2fd21847d1211019d0a368436d4382</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>ecb34dd94791211019d0a368436d43dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>032fd21847d1211019d0a368436d4383</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>60b34dd94791211019d0a368436d43dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>e0b34dd94791211019d0a368436d43dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>832fd21847d1211019d0a368436d4383</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>64b34dd94791211019d0a368436d43dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:37:46</sys_created_on>
-            <sys_id>072fd21847d1211019d0a368436d4383</sys_id>
+            <sys_created_on>2023-02-27 17:32:02</sys_created_on>
+            <sys_id>e4b34dd94791211019d0a368436d43dd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">0709b7dd4705211019d0a368436d43c8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:37:46</sys_updated_on>
+            <sys_updated_on>2023-02-27 17:32:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Cures Dashboard - New Tab">2ac461994715211019d0a368436d43e3</grid_canvas>
+        <height>13</height>
+        <portal_widget display_value="Created 2023-02-27 12:05:15">81c6ed594715211019d0a368436d43bc</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 20:05:15</sys_created_on>
+        <sys_id>01c6ed594715211019d0a368436d43bf</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>2ac461994715211019d0a368436d43e3</sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_01c6ed594715211019d0a368436d43bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 21:21:22</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</application>
+        <file_path/>
+        <instance_id>92bf548bdb89c110a667cac505961964</instance_id>
+        <instance_name>dev121892</instance_name>
+        <name>sys_grid_canvas_pane_01c6ed594715211019d0a368436d43bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Cures Dashboard - New Tab">2ac461994715211019d0a368436d43e3</grid_canvas><height>13</height><portal_widget display_value="Created 2023-02-27 12:05:15">81c6ed594715211019d0a368436d43bc</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-27 20:05:15</sys_created_on><sys_id>01c6ed594715211019d0a368436d43bf</sys_id><sys_mod_count>8</sys_mod_count><sys_name>2ac461994715211019d0a368436d43e3</sys_name><sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package><sys_policy/><sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope><sys_update_name>sys_grid_canvas_pane_01c6ed594715211019d0a368436d43bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-27 21:21:22</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-2140015692</payload_hash>
+        <record_name>2ac461994715211019d0a368436d43e3</record_name>
+        <reverted_from/>
+        <source>0c19f8fc4701211019d0a368436d4396</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 21:21:22</sys_created_on>
+        <sys_id>4c3831d94755211019d0a368436d43a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18694c067070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 21:21:22</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>443831d98a552110db0d4b85dc27baa2</update_guid>
+        <update_guid_history>443831d98a552110db0d4b85dc27baa2:-2140015692,af18a55d54152110c7f02930fff4d505:930600309,1b18611d2815211002389ca8a70d8daf:1226643094,4318611d5b1521102e40f703d0393377:1522685879,be082d1d9515211059d031c16f364dda:1818728664,b508615db21521107860fecb8fe14418:-377840463,25086519d5152110e602d0d2e1cee276:1818728664,3af7a11d6d15211029a2c5b69f638a9c:-377840463,c9c6edd97b152110a2351d26d0f0ceea:1818728664</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 21:34:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>1836114ffbc544c287b97bbb76047824</sys_id>
+        <sys_metadata>01c6ed594715211019d0a368436d43bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2ac461994715211019d0a368436d43e3</sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_scope_delete display_value="">45e396f019c6420095ae19011e1e4000</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_01c6ed594715211019d0a368436d43bf</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_01c6ed594715211019d0a368436d43bf">4c3831d94755211019d0a368436d43a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 21:34:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
