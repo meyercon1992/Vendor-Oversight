@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7898ffdd4705211019d0a368436d43e3" extends="task" label="Tasks for Cures" max_length="40" name="x_872311_amc_pip_0_tasks_for_cures" type="collection">
-        <element label="Cure Amount Saved" max_length="38" name="cure_amount_saved" type="decimal"/>
+        <element label="Cure Amount Saved" max_length="15" name="cure_amount_saved" type="decimal"/>
+        <element label="Cure Amount Saved 2" max_length="255" name="cure_amount_saved_2" type="integer"/>
         <element choice="1" label="Cure Approval" max_length="40" name="cure_approval" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cure Denied" sequence="0" value="cure_denied"/>
@@ -14,7 +15,8 @@
                 <element inactive_on_update="false" label="Complete" sequence="2" value="complete"/>
             </choice>
         </element>
-        <element label="Fee Cure Amount" max_length="38" name="fee_cure_amount" type="decimal"/>
+        <element label="Fee Cure Amount" max_length="15" name="fee_cure_amount" type="decimal"/>
+        <element label="Fee Cure Amount 2" max_length="255" name="fee_cure_amount_2" type="integer"/>
         <element choice="1" label="Fee Description" max_length="40" name="fee_description" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Application Fee" sequence="0" value="application_fee"/>
@@ -40,5 +42,6 @@
                 <element inactive_on_update="false" label="130 - 30 yr Conforming Fixed" sequence="0" value="30_yr_conforming_fixed"/>
             </choice>
         </element>
+        <element label="Total Loan Cure Amount 2" max_length="255" name="total_loan_cure_amount_2" type="float"/>
     </element>
 </database>

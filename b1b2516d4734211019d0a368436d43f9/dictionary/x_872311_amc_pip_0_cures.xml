@@ -704,7 +704,8 @@
                 <element inactive_on_update="false" label="Cures to Review" sequence="0" value="Cures to Review"/>
             </choice>
         </element>
-        <element label="Cure Amount Saved" max_length="38" name="cure_amount_saved" type="decimal"/>
+        <element label="Cure Amount Saved" max_length="15" name="cure_amount_saved" type="decimal"/>
+        <element label="Cure Amount Saved 2" max_length="255" name="cure_amount_saved_2" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Current Loan Status" max_length="40" name="current_loan_status" type="choice">
             <choice>
                 <element inactive_on_update="false" label="10" sequence="0" value="10"/>
@@ -724,6 +725,7 @@
         <element label="Fee Amount" max_length="15" name="fee_amount" type="decimal"/>
         <element label="Fee Baseline" max_length="15" name="fee_baseline" type="decimal"/>
         <element label="Fee Cure Amount" max_length="15" name="fee_cure_amount" type="decimal"/>
+        <element label="Fee Cure Amount 2" max_length="255" name="fee_cure_amount_2" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Fee Description" max_length="40" name="fee_description" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Administration Fee" sequence="0" value="Administration Fee"/>
@@ -1587,7 +1589,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Status 5 Date" max_length="40" name="status_5_date" type="glide_date"/>
         <element label="Sum" max_length="40" name="sum" type="integer"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element choice="1" label="Team Member" max_length="40" name="team_member" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Chris Allen" sequence="0" value="chris_allen"/>
@@ -1603,6 +1605,7 @@
             </choice>
         </element>
         <element label="Total Loan Cure Amount" max_length="15" name="total_loan_cure_amount" type="decimal"/>
+        <element label="Total Loan Cure Amount 2" max_length="255" name="total_loan_cure_amount_2" type="float"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Transfer Tax - Purch" max_length="40" name="transfer_tax_purch" type="choice">
             <choice>
                 <element inactive_on_update="false" label="0" sequence="0" value="0"/>

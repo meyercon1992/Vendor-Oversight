@@ -4,13 +4,13 @@
             <element>loan_number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>89085a1047d1211019d0a368436d43c7</sys_id>
+            <sys_created_on>2023-02-28 20:56:03</sys_created_on>
+            <sys_id>fafb36ad4755211019d0a368436d4326</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
+            <sys_updated_on>2023-02-28 20:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>loan_purpose</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>0d085a1047d1211019d0a368436d43c7</sys_id>
+            <sys_created_on>2023-02-28 20:56:03</sys_created_on>
+            <sys_id>fefb36ad4755211019d0a368436d4326</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
+            <sys_updated_on>2023-02-28 20:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,83 +32,69 @@
             <element>product_description</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>8d085a1047d1211019d0a368436d43c7</sys_id>
+            <sys_created_on>2023-02-28 20:56:03</sys_created_on>
+            <sys_id>f2fb36ad4755211019d0a368436d4327</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fee_number</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>01085a1047d1211019d0a368436d43c8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
+            <sys_updated_on>2023-02-28 20:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>81085a1047d1211019d0a368436d43c8</sys_id>
+            <sys_created_on>2023-02-28 20:56:03</sys_created_on>
+            <sys_id>f6fb36ad4755211019d0a368436d4327</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
+            <sys_updated_on>2023-02-28 20:56:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>fee_cure_amount</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>05085a1047d1211019d0a368436d43c8</sys_id>
+            <sys_created_on>2023-02-28 20:56:03</sys_created_on>
+            <sys_id>fafb36ad4755211019d0a368436d4327</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
+            <sys_updated_on>2023-02-28 20:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cure_amount_saved</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>85085a1047d1211019d0a368436d43c8</sys_id>
+            <sys_created_on>2023-02-28 20:56:03</sys_created_on>
+            <sys_id>fefb36ad4755211019d0a368436d4327</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
+            <sys_updated_on>2023-02-28 20:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>fee_description</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-24 21:06:30</sys_created_on>
-            <sys_id>09085a1047d1211019d0a368436d43c8</sys_id>
+            <sys_created_on>2023-02-28 20:56:03</sys_created_on>
+            <sys_id>f2fb36ad4755211019d0a368436d4328</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Fee and Loan Information" display_value="Fee and Loan Information" name="x_872311_amc_pip_0_tasks_for_cures" sys_domain="global" view="Default view">d07e04254785211019d0a368436d439c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-24 21:06:30</sys_updated_on>
+            <sys_updated_on>2023-02-28 20:56:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

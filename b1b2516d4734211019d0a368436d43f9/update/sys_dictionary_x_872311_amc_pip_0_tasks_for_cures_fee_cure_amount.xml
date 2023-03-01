@@ -5,7 +5,7 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Fee Cure Amount</column_label>
@@ -29,7 +29,7 @@
         <function_field>false</function_field>
         <internal_type display_value="Decimal">decimal</internal_type>
         <mandatory>false</mandatory>
-        <max_length>38</max_length>
+        <max_length>15</max_length>
         <name>x_872311_amc_pip_0_tasks_for_cures</name>
         <next_element/>
         <primary>false</primary>
@@ -52,6 +52,8 @@
         <sys_policy/>
         <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
         <sys_update_name>sys_dictionary_x_872311_amc_pip_0_tasks_for_cures_fee_cure_amount</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 18:41:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

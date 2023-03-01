@@ -47,8 +47,8 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>assigned_to</field>
         <field_list>number,cure_state,loan_number,assigned_to,short_description,active,sys_created_on,fee_description,fee_cure_amount</field_list>
-        <filter table="x_872311_amc_pip_0_tasks_for_cures">cure_state=open^ORstate=-5<item display_value="Open" endquery="false" field="cure_state" goto="false" newquery="false" operator="=" or="false" value="open"/>
-            <item display_value="Pending" endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="-5"/>
+        <filter table="x_872311_amc_pip_0_tasks_for_cures">cure_state=open^ORcure_state=pending<item display_value="Open" endquery="false" field="cure_state" goto="false" newquery="false" operator="=" or="false" value="open"/>
+            <item display_value="Pending" endquery="false" field="cure_state" goto="false" newquery="false" operator="=" or="true" value="pending"/>
         </filter>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
@@ -108,14 +108,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-23 16:00:04</sys_created_on>
         <sys_id>9a48ccc04751211019d0a368436d4370</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Cures TM Work Intake UI</sys_name>
         <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
         <sys_update_name>sys_report_9a48ccc04751211019d0a368436d4370</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-02-27 19:02:41</sys_updated_on>
+        <sys_updated_on>2023-02-28 21:33:57</sys_updated_on>
         <table>x_872311_amc_pip_0_tasks_for_cures</table>
         <title>Cures TM Work Intake UI</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

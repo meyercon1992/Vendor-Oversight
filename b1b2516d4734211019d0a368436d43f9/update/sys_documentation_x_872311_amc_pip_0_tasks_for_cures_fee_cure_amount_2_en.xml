@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="fee_cure_amount_2" label="Fee Cure Amount 2" language="en" table="x_872311_amc_pip_0_tasks_for_cures">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fee_cure_amount_2</element>
+            <help/>
+            <hint/>
+            <label>Fee Cure Amount 2</label>
+            <language>en</language>
+            <name>x_872311_amc_pip_0_tasks_for_cures</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-28 18:58:39</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Fee Cure Amount 2</sys_name>
+            <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+            <sys_update_name>sys_documentation_x_872311_amc_pip_0_tasks_for_cures_fee_cure_amount_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-28 18:58:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

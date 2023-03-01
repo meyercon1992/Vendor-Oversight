@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="261b79e94751211019d0a368436d435a" extends="sys_import_set_row" label="Cures With Cure Fees as Strings" max_length="40" name="x_872311_amc_pip_0_cures_with_cure_fees_as_strings" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ACD" label="ACD" max_length="40" name="u_acd" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Amrock Title" label="Amrock Title" max_length="40" name="u_amrock_title" type="string"/>
+        <element attributes="import_attribute_name=Appraisal Fee" label="Appraisal Fee" max_length="40" name="u_appraisal_fee" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=County" label="County" max_length="40" name="u_county" type="string"/>
+        <element attributes="import_attribute_name=Credit" label="Credit" max_length="40" name="u_credit" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cures to Review" label="Cures to Review" max_length="40" name="u_cures_to_review" type="string"/>
+        <element attributes="import_attribute_name=Current Loan Status" label="Current Loan Status" max_length="40" name="u_current_loan_status" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date/Time Fee Amount Updated" label="Date/Time Fee Amount Updated" max_length="40" name="u_date_time_fee_amount_updated" type="string"/>
+        <element attributes="import_attribute_name=Fee Amount" label="Fee Amount" max_length="15" name="u_fee_amount" type="decimal"/>
+        <element attributes="import_attribute_name=Fee Baseline" label="Fee Baseline" max_length="40" name="u_fee_baseline" type="integer"/>
+        <element attributes="import_attribute_name=Fee Cure Amount" label="Fee Cure Amount" max_length="15" name="u_fee_cure_amount" type="decimal"/>
+        <element attributes="import_attribute_name=Fee Cure Amount 2" label="Fee Cure Amount 2" max_length="15" name="u_fee_cure_amount_2" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fee Description" label="Fee Description" max_length="40" name="u_fee_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fee Number" label="Fee Number" max_length="40" name="u_fee_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fee Paid To" label="Fee Paid To" max_length="40" name="u_fee_paid_to" type="string"/>
+        <element attributes="import_attribute_name=Fee Tolerance %" label="Fee Tolerance %" max_length="15" name="u_fee_tolerance__" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Issue?" label="Issue?" max_length="40" name="u_issue_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Loan Channel" label="Loan Channel" max_length="40" name="u_loan_channel" type="string"/>
+        <element attributes="import_attribute_name=Loan Number" label="Loan Number" max_length="40" name="u_loan_number" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Loan Purpose" label="Loan Purpose" max_length="40" name="u_loan_purpose" type="string"/>
+        <element attributes="import_attribute_name=Mortgage Insurance" label="Mortgage Insurance" max_length="40" name="u_mortgage_insurance" type="integer"/>
+        <element attributes="import_attribute_name=Our Fee" label="Our Fee" max_length="40" name="u_our_fee" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Previous Loan Purpose" label="Previous Loan Purpose" max_length="40" name="u_previous_loan_purpose" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Product Description" label="Product Description" max_length="40" name="u_product_description" type="string"/>
+        <element attributes="import_attribute_name=Recording Fee - Purch" label="Recording Fee - Purch" max_length="40" name="u_recording_fee___purch" type="integer"/>
+        <element attributes="import_attribute_name=Recording Fee - Refi" label="Recording Fee - Refi" max_length="40" name="u_recording_fee___refi" type="integer"/>
+        <element attributes="import_attribute_name=Review" label="Review" max_length="40" name="u_review" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status 5 Date" label="Status 5 Date" max_length="40" name="u_status_5_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Sum" label="Sum" max_length="40" name="u_sum" type="integer"/>
+        <element attributes="import_attribute_name=Title" label="Title" max_length="40" name="u_title" type="integer"/>
+        <element attributes="import_attribute_name=Total Loan Cure Amount" label="Total Loan Cure Amount" max_length="15" name="u_total_loan_cure_amount" type="decimal"/>
+        <element attributes="import_attribute_name=Transfer Tax -Refi" label="Transfer Tax -Refi" max_length="40" name="u_transfer_tax__refi" type="integer"/>
+        <element attributes="import_attribute_name=Transfer Tax - Purch" label="Transfer Tax - Purch" max_length="40" name="u_transfer_tax___purch" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User Last Modified Fee" label="User Last Modified Fee" max_length="40" name="u_user_last_modified_fee" type="string"/>
+    </element>
+</database>
