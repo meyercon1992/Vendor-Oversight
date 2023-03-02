@@ -2,7 +2,7 @@
     <pa_widgets action="INSERT_OR_UPDATE">
         <aggregate display_value="By week SUM +">76ae2900eb31020065deac6aa206fe30</aggregate>
         <alignment>left</alignment>
-        <breakdown display_value="Cures Fee Description">e4f5d0404791211019d0a368436d43c9</breakdown>
+        <breakdown/>
         <breakdown_level2/>
         <breakdown_page_size>5</breakdown_page_size>
         <chart_color/>
@@ -36,7 +36,7 @@
         <field/>
         <filter/>
         <flip_axes>false</flip_axes>
-        <follow_element>true</follow_element>
+        <follow_element>false</follow_element>
         <follow_managed_element>false</follow_managed_element>
         <followed_breakdown/>
         <followed_breakdown_relation/>
@@ -50,7 +50,7 @@
         <include_target>false</include_target>
         <include_thresholds>false</include_thresholds>
         <include_trend>false</include_trend>
-        <indicator display_value="Cures Approved Fee Amount ">4e6d6a4d4705211019d0a368436d436f</indicator>
+        <indicator display_value="Cures Rejected Fee $ Amount ">c1a443054785211019d0a368436d4385</indicator>
         <is_compare_chart>false</is_compare_chart>
         <lastscore_compare>previous_score</lastscore_compare>
         <lastscore_periods_back/>
@@ -58,15 +58,15 @@
         <lookup_name/>
         <manual_elements>false</manual_elements>
         <max_color/>
-        <multiple_elements_view>aggregate</multiple_elements_view>
-        <name>WoW $ Amount of Cures that Could Not Be Saved</name>
+        <multiple_elements_view/>
+        <name>All-in $ Amount of Cures Saved</name>
         <number_of_records>5</number_of_records>
         <overlap_data_labels>false</overlap_data_labels>
         <percentages>no_percentages</percentages>
         <period>3m</period>
         <pivot_breakdown/>
         <pivot_elements_filter/>
-        <related_dashboards>1</related_dashboards>
+        <related_dashboards>0</related_dashboards>
         <score_font_size>responsive</score_font_size>
         <scorecard_options>all</scorecard_options>
         <show_bar>false</show_bar>
@@ -82,34 +82,34 @@
         <show_on_click_link_label>true</show_on_click_link_label>
         <show_range_selector>true</show_range_selector>
         <show_target>false</show_target>
-        <show_top_x>5</show_top_x>
+        <show_top_x/>
         <show_total>false</show_total>
         <show_trend>true</show_trend>
         <show_visualization_selector>true</show_visualization_selector>
-        <sort_direction>desc</sort_direction>
-        <sort_on>value</sort_on>
+        <sort_direction>asc</sort_direction>
+        <sort_on>default</sort_on>
         <subtitle/>
         <sys_class_name>pa_widgets</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-02-27 21:25:21</sys_created_on>
+        <sys_created_on>2023-03-01 19:44:57</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>383831d94755211019d0a368436d43a4</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>WoW $ Amount of Cures that Could Not Be Saved</sys_name>
+        <sys_id>f2a4bbf947d1211019d0a368436d4330</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All-in $ Amount of Cures Saved</sys_name>
         <sys_overrides/>
         <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
-        <sys_update_name>pa_widgets_383831d94755211019d0a368436d43a4</sys_update_name>
+        <sys_update_name>pa_widgets_f2a4bbf947d1211019d0a368436d4330</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-01 22:11:08</sys_updated_on>
+        <sys_updated_on>2023-03-01 20:07:43</sys_updated_on>
         <tag/>
         <template>template1</template>
         <treemap_max_color display_value="Green">65b302aea9fe3dba00a530d65ecc2106</treemap_max_color>
         <treemap_min_color display_value="Red">65b30395a9fe3dba003277a7b660b5db</treemap_min_color>
-        <type>breakdown</type>
-        <visualization>column_total</visualization>
+        <type>time</type>
+        <visualization>line</visualization>
         <words_in_trendline>5</words_in_trendline>
         <yaxis2_from/>
         <yaxis2_title/>
@@ -118,5 +118,5 @@
         <yaxis_title/>
         <yaxis_to/>
     </pa_widgets>
-    <sys_translated_text action="delete_multiple" query="documentkey=383831d94755211019d0a368436d43a4"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f2a4bbf947d1211019d0a368436d4330"/>
 </record_update>

@@ -26,7 +26,7 @@ Approval = Approved</description>
         <direction>1</direction>
         <display>true</display>
         <excluded_statistics/>
-        <field>cure_amount_saved</field>
+        <field>fee_cure_amount</field>
         <forecast_base_periods>2</forecast_base_periods>
         <forecast_base_start>00000000</forecast_base_start>
         <forecast_base_type>1</forecast_base_type>
@@ -58,7 +58,7 @@ Approval = Approved</description>
         <roles/>
         <score_periods>-1</score_periods>
         <scores_format>kMGTPE</scores_format>
-        <scores_modified_at>2023-02-23 17:06:15</scores_modified_at>
+        <scores_modified_at>2023-03-02 05:00:04</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>
@@ -71,7 +71,7 @@ Approval = Approved</description>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4e6d6a4d4705211019d0a368436d436f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Cures Approved Fee Amount </sys_name>
         <sys_overrides/>
         <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
@@ -79,7 +79,7 @@ Approval = Approved</description>
         <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
         <sys_update_name>pa_indicators_4e6d6a4d4705211019d0a368436d436f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-02-23 20:12:01</sys_updated_on>
+        <sys_updated_on>2023-03-01 21:04:21</sys_updated_on>
         <type>1</type>
         <unit display_value="$">20c365e2d7320100ba986f14ce6103b3</unit>
         <users/>

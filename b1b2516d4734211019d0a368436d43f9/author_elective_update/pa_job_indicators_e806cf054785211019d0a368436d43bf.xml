@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>Cures Historical  - Cures Rejected Fee $ Amount </display>
+        <indicator display_value="Cures Rejected Fee $ Amount ">c1a443054785211019d0a368436d4385</indicator>
+        <job display_value="Cures Historical ">69a636854745211019d0a368436d434b</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-14 22:07:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e806cf054785211019d0a368436d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cures Rejected Fee $ Amount .Cures Historical </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_update_name>pa_job_indicators_e806cf054785211019d0a368436d43bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-14 22:07:12</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</application>
+        <file_path/>
+        <instance_id>92bf548bdb89c110a667cac505961964</instance_id>
+        <instance_name>dev121892</instance_name>
+        <name>pa_job_indicators_e806cf054785211019d0a368436d43bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>Cures Historical  - Cures Rejected Fee $ Amount </display><indicator display_value="Cures Rejected Fee $ Amount ">c1a443054785211019d0a368436d4385</indicator><job display_value="Cures Historical ">69a636854745211019d0a368436d434b</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-14 22:07:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e806cf054785211019d0a368436d43bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cures Rejected Fee $ Amount .Cures Historical </sys_name><sys_overrides/><sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package><sys_policy/><sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope><sys_update_name>pa_job_indicators_e806cf054785211019d0a368436d43bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-14 22:07:12</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>1337272174</payload_hash>
+        <record_name>Cures Historical  - Cures Rejected Fee $ Amount </record_name>
+        <reverted_from/>
+        <source>0c19f8fc4701211019d0a368436d4396</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-14 22:07:12</sys_created_on>
+        <sys_id>f006c7454785211019d0a368436d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18651f7b0aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-14 22:07:12</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>f806c7454d852110a44216495ae563b1</update_guid>
+        <update_guid_history>f806c7454d852110a44216495ae563b1:1337272174</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cures Historical  - Cures Rejected Fee $ Amount ">edb7048a4715211019d0a368436d43e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-01 21:05:24</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>54f4bc260d34450790cbf68534eb3bd9</sys_id>
+        <sys_metadata>e806cf054785211019d0a368436d43bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cures Rejected Fee $ Amount .Cures Historical </sys_name>
+        <sys_package display_value="Vendor Oversight" source="x_872311_amc_pip_0">b1b2516d4734211019d0a368436d43f9</sys_package>
+        <sys_parent display_value="Cures Historical ">69a636854745211019d0a368436d434b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Vendor Oversight">b1b2516d4734211019d0a368436d43f9</sys_scope>
+        <sys_scope_delete display_value="">45e396f019c6420095ae19011e1e4000</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_e806cf054785211019d0a368436d43bf</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_e806cf054785211019d0a368436d43bf">f006c7454785211019d0a368436d43b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-01 21:05:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
